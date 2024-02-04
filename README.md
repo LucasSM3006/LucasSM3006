@@ -1,6 +1,6 @@
 ### Olá 👋 eu sou o Lucas ###
 
-## Sou um Desenvolvedor Fullstack com preferência ao back-end.
+## Sou um Desenvolvedor Fullstack com maior especialização ao back-end.
 
 - 👨‍💻 Atualmente estou trabalhando em aprofundar meus conhecimentos com Java e Spring, com ambições de aprender o .NET e C#.
 - 📚 Meus interesses englobam: Web, APIs, Bancos de Dado, Jogos, Software Embarcado, entre outros. Adoro aprender coisas novas.
