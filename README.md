@@ -2,7 +2,7 @@
 
 ## Sou um Desenvolvedor Fullstack com maior especialização ao back-end.
 
-- 👨‍💻 Atualmente estou trabalhando em aprofundar meus conhecimentos com Java e Spring, com ambições de aprender o .NET e C#.
+- 👨‍💻 Atualmente estou trabalhando em aprofundar meus conhecimentos com Java e Spring, e também aprendendo C# e .NET.
 - 📚 Meus interesses englobam: Web, APIs, Bancos de Dado, Jogos, Software Embarcado, entre outros. Adoro aprender coisas novas.
 - ⌚ Objetivo em 5 anos: Ser um Excelente Engenheiro de Software Sênior.
 
@@ -11,7 +11,7 @@
 
 ## I'm a Fullstack developer who's more specialized on the back-end.
 
-- 👨‍💻 I’m currently working on Java + Spring projects, and have ambitions to learn .NET + C#.
+- 👨‍💻 I’m currently working on Java + Spring projects, and also learning C# and .NET.
 - 📚 My interests are: Web, APIs, Databanks, Games, Embedded Systems, and others. I love learning new things.
 - ⌚ Objective in five years: Becoming an amazing Senior Software Engineer.
 
